@@ -1,6 +1,6 @@
-# Full Stack Travel Log
+# Full Stack Travel Log Application
 
-A full stack application to store / list places you have traveled.
+A full stack application to store and list places you have traveled, built with Node and React.
 
 ### TODO
 
@@ -12,9 +12,9 @@ A full stack application to store / list places you have traveled.
 * [x] Model DB
   * What data will we store?
 * [x] Setup Mongoose Model(s)
-* [ ] POST /logs
+* [x] POST /logs
   * Create a new log entry
-* [ ] GET / logs
+* [x] GET / logs
   * List all log entries
 * [ ] Setup Client
 * [ ] Create Form to add a new entry
