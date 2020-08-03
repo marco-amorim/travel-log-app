@@ -4,6 +4,8 @@ import ReactMapGL, { Marker, Popup } from 'react-map-gl';
 import { listLogEntries } from './API';
 import LogEntryForm from './LogEntryForm';
 
+require('dotenv').config();
+
 const App = () => {
   const [logEntries, setLogEntries] = useState([]);
   const [showPopup, setShowPopup] = useState({});
