@@ -1,4 +1,4 @@
-# Full Stack Travel Log Application
+# Travelly
 
 A full stack application to store and list places you have traveled, built with Node and React.
 
